@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Joshua Rhee** — Applied ML & Data Engineer  
+**Joshua Rhee** — AI/ML & Data Engineer  
 B.S. Computer Science, Temple University (2025) · Morrisville, PA, USA
 
 I build end-to-end ML systems — multimodal data pipelines, local-LLM/RAG services, and audio models — and own the whole stack: from raw data to documented, tested, deployed software.
